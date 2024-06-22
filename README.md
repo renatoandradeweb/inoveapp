@@ -101,6 +101,10 @@ For more information about the project, please contact me:
 - WhatsApp: http://wa.me/5563999821991
 - Name: Renato Andrade da Fonseca
 
+<br>
+
+---
+
 ### **Documentação em Português**
 
 InoveApp é uma aplicação Django com SQLAlchemy, que inclui um backend FastAPI e integração com a API JSONPlaceholder para operações CRUD em posts e usuários.

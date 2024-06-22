@@ -99,6 +99,7 @@ For more information about the project, please contact me:
 - LinkedIn: https://www.linkedin.com/in/renatoandradeweb/
 - GitHub: https://github.com/renatoandradeweb
 - WhatsApp: http://wa.me/5563999821991
+- Name: Renato Andrade da Fonseca
 
 ### **Documentação em Português**
 
@@ -199,3 +200,4 @@ Para mais informações sobre o projeto, entre em contato comigo:
 - LinkedIn: https://www.linkedin.com/in/renatoandradeweb/
 - github: https://github.com/renatoandradeweb
 - whatsapp: http://wa.me/5563999821991
+- nome: Renato Andrade da Fonseca

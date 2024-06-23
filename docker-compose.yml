@@ -15,7 +15,8 @@ services:
   web:
     build: .
     command: >
-      sh -c "./wait-for-it.sh db 5432 &&
+      sh -c "chmod +x /wait-for-it.sh &&
+             ./wait-for-it.sh db 5432 &&
              echo 'Postgres is up' &&
              python app/inove/create_tables.py &&
              python app/manage.py runserver 0.0.0.0:8000"
